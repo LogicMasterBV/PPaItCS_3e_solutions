@@ -70,7 +70,7 @@
 #     function returns the numeric ("ordinal") code of a single-character string, while chr goes the
 #     other direction."]
 
-#  4. Which of the following can not be used to convert a string of digits into a number? [D]
+#  4. Which of the following can not be used to convert a string of digits into a number? [C]
 #     a) int     b) float     c) str     d) eval
 
 #  5. A sucessor to ASCII that includes characters from (nearly) all written languages is [C]
