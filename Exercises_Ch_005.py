@@ -36,7 +36,7 @@
 #     keyboard, as well as certain special values known as control codds that are used to coordinate the sending
 #     and receiving of information.]
 
-#  7. The split method breaks a string into a list of substrings, and join does the opposite. FALSE
+#  7. The split method breaks a string into a list of substrings, and join does the opposite. TRUE
 #     [Explanation: p.144 "For our decoder, we will make use of the split method. This method splits a string into
 #     a list of substrings. By default, it will split the string whever a space occurs. p. 148 see table.]
 
